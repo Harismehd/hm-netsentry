@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Environment and editor settings
+.env
+.vscode/
+.idea/
+
+# Local telemetry and generated output
+data/
+reports/
+*.sqlite3
+*.sqlite3-*
+*.pcap
+*.pcapng
+
+# Platform files
+Thumbs.db
+.DS_Store
